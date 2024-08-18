@@ -1,0 +1,7 @@
+Package: climateconversions
+Title: Climate Conversions
+Description: Helps with emissions-related data conversions. gwp converts emissions into CO2-equivalent units. fuel_emissions converts gallons of gasoline or diesel consumed into metric tons of CO2 produced. energy_emissions converts kilowatt-hours of electricity consumption into metric tons of CO2 produced. Equations are sourced from the US EPA's regulations (2009). Global warming potentials come from the Intergovernmental Panel on Climate Change (2021). Fuel emissions factors are gathered from the U.S. Environmental Protection Agency (2010). Electricity emissions factors are sourced from the U.S. Energy Information Administration (2022).
+Version: 1.1.0
+Authors@R: person("Nicholas", "Kruus", email = "kruus.nic@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/X8uGRDJbLik

@@ -1,0 +1,5 @@
+# Exporting the functions in climateconversions for package users
+
+export(gwp)
+export(fuel_emissions)
+export(energy_emissions)
